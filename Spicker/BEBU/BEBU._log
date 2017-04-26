@@ -1,0 +1,100 @@
+Input File::/home/reese/Documents/Schule/4.Lehrjahr/MAP/BEBU.tex::0::0::Input File
+Input File::/usr/share/texmf-dist/tex/latex/base/article.cls::0::0::Input File
+Input Package::/usr/share/texmf-dist/tex/latex/base/article.cls::0::0::article 2014/09/29 v1.4h Standard LaTeX document class
+Input File::/usr/share/texmf-dist/tex/latex/base/size10.clo::0::0::Input File
+Input File::/usr/share/texmf-dist/tex/latex/ucs/ucs.sty::0::0::Input File
+Input Package::/usr/share/texmf-dist/tex/latex/ucs/ucs.sty::0::0::ucs 2013/05/11 v2.2 UCS: Unicode input support
+Input File::/usr/share/texmf-dist/tex/latex/ucs/data/uni-global.def::0::0::Input File
+Input File::/usr/share/texmf-dist/tex/latex/base/inputenc.sty::0::0::Input File
+Input Package::/usr/share/texmf-dist/tex/latex/base/inputenc.sty::0::0::inputenc 2015/03/17 v1.2c Input encoding file
+Input File::/usr/share/texmf-dist/tex/latex/ucs/utf8x.def::0::0::Input File
+Input File::/usr/share/texmf-dist/tex/latex/base/fontenc.sty::0::0::Input File
+Input Package::/usr/share/texmf-dist/tex/latex/base/fontenc.sty::0::0::fontenc 2017/02/22 v2.0g Standard LaTeX package
+Input File::/usr/share/texmf-dist/tex/latex/base/t1enc.def::0::0::Input File
+LaTeX Font Info::/usr/share/texmf-dist/tex/latex/base/t1enc.def::48::0::   Redeclaring font encoding T1.
+Input File::/usr/share/texmf-dist/tex/generic/babel/babel.sty::0::0::Input File
+Input Package::/usr/share/texmf-dist/tex/generic/babel/babel.sty::0::0::babel 2016/04/23 3.9r The Babel package
+Input File::/usr/share/texmf-dist/tex/generic/babel/babel.def::0::0::Input File
+Package Info::/usr/share/texmf-dist/tex/generic/babel/babel.sty::125::0::Making " an active character. (babel)
+Input File::/usr/share/texmf-dist/tex/latex/blindtext/blindtext.sty::0::0::Input File
+Input Package::/usr/share/texmf-dist/tex/latex/blindtext/blindtext.sty::0::0::blindtext 2012/01/06 V2.0 blindtext-Package
+Input File::/usr/share/texmf-dist/tex/latex/tools/xspace.sty::0::0::Input File
+Input Package::/usr/share/texmf-dist/tex/latex/tools/xspace.sty::0::0::xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+Input File::/usr/share/texmf-dist/tex/latex/tools/multicol.sty::0::0::Input File
+Input Package::/usr/share/texmf-dist/tex/latex/tools/multicol.sty::0::0::multicol 2016/04/07 v1.8p multicolumn formatting (FMi)
+Input File::/usr/share/texmf-dist/tex/latex/titlesec/titlesec.sty::0::0::Input File
+Input Package::/usr/share/texmf-dist/tex/latex/titlesec/titlesec.sty::0::0::titlesec 2016/03/21 v2.10.2 Sectioning titles
+Input File::/usr/share/texmf-dist/tex/latex/wrapfig/wrapfig.sty::0::0::Input File
+Input Package::/usr/share/texmf-dist/tex/latex/wrapfig/wrapfig.sty::0::0::wrapfig 2003/01/31  v 3.6
+Input File::/usr/share/texmf-dist/tex/latex/geometry/geometry.sty::0::0::Input File
+Input Package::/usr/share/texmf-dist/tex/latex/geometry/geometry.sty::0::0::geometry 2010/09/12 v5.6 Page Geometry
+Input File::/usr/share/texmf-dist/tex/latex/graphics/keyval.sty::0::0::Input File
+Input Package::/usr/share/texmf-dist/tex/latex/graphics/keyval.sty::0::0::keyval 2014/10/28 v1.15 key=value parser (DPC)
+Input File::/usr/share/texmf-dist/tex/generic/oberdiek/ifpdf.sty::0::0::Input File
+Input Package::/usr/share/texmf-dist/tex/generic/oberdiek/ifpdf.sty::0::0::ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+Input File::/usr/share/texmf-dist/tex/generic/oberdiek/ifvtex.sty::0::0::Input File
+Input Package::/usr/share/texmf-dist/tex/generic/oberdiek/ifvtex.sty::0::0::ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package Info::/usr/share/texmf-dist/tex/generic/oberdiek/ifvtex.sty::0::0::VTeX not detected. (ifvtex)
+Input File::/usr/share/texmf-dist/tex/generic/ifxetex/ifxetex.sty::0::0::Input File
+Input Package::/usr/share/texmf-dist/tex/generic/ifxetex/ifxetex.sty::0::0::ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+Input File::/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty::0::0::Input File
+Input Package::/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty::0::0::graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+Input File::/usr/share/texmf-dist/tex/latex/graphics/graphics.sty::0::0::Input File
+Input Package::/usr/share/texmf-dist/tex/latex/graphics/graphics.sty::0::0::graphics 2016/10/09 v1.0u Standard LaTeX Graphics (DPC,SPQR)
+Input File::/usr/share/texmf-dist/tex/latex/graphics/trig.sty::0::0::Input File
+Input Package::/usr/share/texmf-dist/tex/latex/graphics/trig.sty::0::0::trig 2016/01/03 v1.10 sin cos tan (DPC)
+Input File::/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg::0::0::Input File
+Package Info::/usr/share/texmf-dist/tex/latex/graphics/graphics.sty::99::0::Driver file: pdftex.def. (graphics)
+Input File::/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def::0::0::Input File
+Input File::/usr/share/texmf-dist/tex/generic/oberdiek/infwarerr.sty::0::0::Input File
+Input Package::/usr/share/texmf-dist/tex/generic/oberdiek/infwarerr.sty::0::0::infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Input File::/usr/share/texmf-dist/tex/generic/oberdiek/ltxcmds.sty::0::0::Input File
+Input Package::/usr/share/texmf-dist/tex/generic/oberdiek/ltxcmds.sty::0::0::ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Input File::/home/reese/Documents/Schule/4.Lehrjahr/MAP/BEBU.aux::0::0::Input File
+LaTeX Font Info::/home/reese/Documents/Schule/4.Lehrjahr/MAP/BEBU.tex::23::0::   Checking defaults for OML/cmm/m/it.
+LaTeX Font Info::/home/reese/Documents/Schule/4.Lehrjahr/MAP/BEBU.tex::23::0::   ... okay.
+LaTeX Font Info::/home/reese/Documents/Schule/4.Lehrjahr/MAP/BEBU.tex::23::0::   Checking defaults for T1/cmr/m/n.
+LaTeX Font Info::/home/reese/Documents/Schule/4.Lehrjahr/MAP/BEBU.tex::23::0::   ... okay.
+LaTeX Font Info::/home/reese/Documents/Schule/4.Lehrjahr/MAP/BEBU.tex::23::0::   Checking defaults for OT1/cmr/m/n.
+LaTeX Font Info::/home/reese/Documents/Schule/4.Lehrjahr/MAP/BEBU.tex::23::0::   ... okay.
+LaTeX Font Info::/home/reese/Documents/Schule/4.Lehrjahr/MAP/BEBU.tex::23::0::   Checking defaults for OMS/cmsy/m/n.
+LaTeX Font Info::/home/reese/Documents/Schule/4.Lehrjahr/MAP/BEBU.tex::23::0::   ... okay.
+LaTeX Font Info::/home/reese/Documents/Schule/4.Lehrjahr/MAP/BEBU.tex::23::0::   Checking defaults for OMX/cmex/m/n.
+LaTeX Font Info::/home/reese/Documents/Schule/4.Lehrjahr/MAP/BEBU.tex::23::0::   ... okay.
+LaTeX Font Info::/home/reese/Documents/Schule/4.Lehrjahr/MAP/BEBU.tex::23::0::   Checking defaults for U/cmr/m/n.
+LaTeX Font Info::/home/reese/Documents/Schule/4.Lehrjahr/MAP/BEBU.tex::23::0::   ... okay.
+Input File::/usr/share/texmf-dist/tex/latex/ucs/ucsencs.def::0::0::Input File
+Input File::/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii::0::0::Input File
+Input File::/usr/share/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty::0::0::Input File
+Input Package::/usr/share/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty::0::0::pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+Input File::/usr/share/texmf-dist/tex/generic/oberdiek/ifluatex.sty::0::0::Input File
+Input Package::/usr/share/texmf-dist/tex/generic/oberdiek/ifluatex.sty::0::0::ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package Info::/usr/share/texmf-dist/tex/generic/oberdiek/ifluatex.sty::0::0::LuaTeX not detected. (ifluatex)
+Package Info::/usr/share/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty::0::0::LuaTeX not detected. (pdftexcmds)
+Package Info::/usr/share/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty::0::0::\pdf@primitive is available. (pdftexcmds)
+Package Info::/usr/share/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty::0::0::\pdf@ifprimitive is available. (pdftexcmds)
+Package Info::/usr/share/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty::0::0::\pdfdraftmode found. (pdftexcmds)
+Input File::/usr/share/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty::0::0::Input File
+Input Package::/usr/share/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty::0::0::epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+Input File::/usr/share/texmf-dist/tex/latex/oberdiek/grfext.sty::0::0::Input File
+Input Package::/usr/share/texmf-dist/tex/latex/oberdiek/grfext.sty::0::0::grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+Input File::/usr/share/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty::0::0::Input File
+Input Package::/usr/share/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty::0::0::kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Input File::/usr/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty::0::0::Input File
+Input Package::/usr/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty::0::0::kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+Input File::/usr/share/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty::0::0::Input File
+Input Package::/usr/share/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty::0::0::kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Input File::/usr/share/texmf-dist/tex/generic/oberdiek/etexcmds.sty::0::0::Input File
+Input Package::/usr/share/texmf-dist/tex/generic/oberdiek/etexcmds.sty::0::0::etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package Info::/usr/share/texmf-dist/tex/generic/oberdiek/etexcmds.sty::0::0::Could not find \expanded. That can mean that you are not using pdfTeX 1.50 or that some package has redefined \expanded. In the latter case, load this package earlier. (etexcmds)
+Package Info::/usr/share/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty::0::0::Graphics extension search list: [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE (grfext)
+Input File::/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg::0::0::Input File
+Package Warning::/home/reese/Documents/Schule/4.Lehrjahr/MAP/BEBU.tex::25::0::multicols* inside a box does not make sense. Going to balance anyway. (multicol package)
+Input File::/usr/share/texmf-dist/tex/latex/ucs/data/uni-0.def::0::0::Input File
+LaTeX Font Info::/home/reese/Documents/Schule/4.Lehrjahr/MAP/BEBU.tex::92::0::   Try loading font information for OMS+cmr.
+Input File::/usr/share/texmf-dist/tex/latex/base/omscmr.fd::0::0::Input File
+LaTeX Font Info::/home/reese/Documents/Schule/4.Lehrjahr/MAP/BEBU.tex::92::0::   Font shape `OMS/cmr/m/n' in size <5> not available Font shape `OMS/cmsy/m/n' tried instead.
+Input File::/usr/share/texmf-dist/tex/latex/ucs/data/uni-32.def::0::0::Input File
+LaTeX Font Info::/home/reese/Documents/Schule/4.Lehrjahr/MAP/BEBU.tex::102::0::   External font `cmex10' loaded for size <5>.
+Input File::pdftex.def::0::0::Input File
+Input File::/home/reese/Documents/Schule/4.Lehrjahr/MAP/BEBU.aux::0::0::Input File
