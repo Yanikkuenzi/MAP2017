@@ -1,0 +1,29 @@
+---------------------------------
+-------- Konto erstellen --------
+---------------------------------
+
+1. Auf visualstudio.com gehen
+2. Visual Studio Team Services -> Kostenlos testen
+3. Mit Microsoft Konto einloggen (Wenn keines besteht muss man sich registrieren)
+4. Neues Konto erstellen
+	-> Namen geben (daraus wird dann die URL worüber das Projekt erreicht werden kann)
+    	-> Git als Versionskontrollsystem verwenden
+
+5. Auf Projekteinstellungen gehen (Zahnradsymbol oben rechts)
+	-> Oben auf die oberste Hirarchiestufe gehen (Projektname)
+    	-> MyFirstProject löschen (Falsche Agiles Projektmanagement anstatt Scrum)
+    	-> Neues Teamprojekt erstellen (Process Template = Scrum !!)
+
+
+---------------------------------
+------ Benutzer hinzufügen ------
+---------------------------------
+
+1. Auf der Hauptseite im Feld Teammember -> Invite a Friend
+2. Add -> Benutzer suchen (Email) -> Save changes
+3. Refresh
+4. Einstellungen  (Zahnrad)
+    -> In den Breadcrumbs zum Projektnamen navigieren
+    -> Registerkarte Security
+    -> Project Administrators
+    -> Members hinzufügen

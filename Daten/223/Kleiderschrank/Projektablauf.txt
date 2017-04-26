@@ -1,0 +1,24 @@
+- Gruppenbildung (Personen / Zuordnung Projekt)
+- VS2015 läuft bmWP2
+- TFS eingerichtet bevorzugt: team[X]-inf7[y]-2013.visualstudio.com
+  -> mich als Member hinzugefügt
+  - Projekt mit Scrum Vorlage erstellt
+- SQL Server Login getestet
+- PBI's fürs ganze Projekt
+	- keine technischen PBI's (Testing, DB, GUI usw.)
+	  sondern User Stories
+	- Name: Wer was warum
+	- Grösse: Stunden/Story Points
+	- Priorität (Reihenfolge in Liste)
+		- Technisches Risiko (Description)
+		- Wirtschaftlicher Nutzen (Business Value)
+		- Abhängigkeiten (Links: Predecessor, Successor)
+	- Akzeptanzkriterien (mind 4 pro PBI)
+Sprint Planning Meeting 1 -> Auswahl der PBI's für Sprint 1
+Sprint Planning Meeting 2 -> Tasks erstellen für PBI's aus Sprint 1
+	- Tasks
+	- Mind. 3 pro PBI (Planung, Umsetzung, Testing) 
+	  Umsetzung kann weiter aufgeteilt werden
+	- Aufwandschätzung in Stunden (Remaining work)
+	
+TERMIN: FREITAG 18.11. 23:59

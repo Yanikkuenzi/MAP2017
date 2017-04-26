@@ -1,0 +1,29 @@
+﻿Lernkontrolle M121 LB1
+
+Geschichte der Automatisierung ----------
+Epochen und ihre Auswirkungen ---------
+Epochen und ihre technischen Entwicklungen ----------
+Compuputer Integrated Manufacturing Grundwissen ----------
+EVA Prinzip Sensoren ----------
+EVA Prinzip Verarbeitung ----------
+EVA Prinzip Ausgabe ----------
+Funktionsweise von:
+- Schrittmotor ----------- 
+- Ampelsteuerung ----------- 
+- 7 Segment Anzeige ----------- 
+
+Boolean Operationen AND OR XOR, Maskierung ----------- 
+Umrechnung DEC-BIN-HEX (0-255) ----------
+Mikroprozessor Funktionsweise und Architektur
+
+Assembler:
+- Register, Zahlendarstellung, Programmzähler
+- Direkte und indirekte Adressierung
+- Arithmetische Operationen
+- Sprünge
+- Bedingte Anweisungen (if)
+- Datentabellen
+- Stackoperationen
+- Speicherverwaltung
+- Verstehen eines Ablaufs
+- Gestalten eines Ablaufs
